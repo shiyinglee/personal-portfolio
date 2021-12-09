@@ -1,0 +1,12 @@
+/* navbar */
+.navbar-light .navbar-brand{
+    font-weight: bold;
+}
+.navbar-light .navbar-brand, .navbar-light .navbar-nav .nav-link{
+    color:#71838F;
+}
+
+hr{
+    color: rgba(0, 0, 0, 0.3);
+    margin-top: 0%;
+}
