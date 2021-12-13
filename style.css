@@ -10,3 +10,28 @@ hr{
     color: rgba(0, 0, 0, 0.3);
     margin-top: 0%;
 }
+
+#image{
+    width: 11vw;
+    height: 11vw;
+    min-width: 100px; 
+    min-height: 100px;
+    object-fit: cover;
+}
+
+
+
+
+#portfolio-icon{
+    width: 2vw;
+    height: 2vw;
+    min-width: 25px;
+    min-height: 25px;
+    cursor: pointer;
+    margin-left:4%;
+    margin-top: 4%;
+}
+
+
+
+
