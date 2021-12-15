@@ -11,12 +11,14 @@ hr{
     margin-top: 0%;
 }
 
+
 #image{
     width: 11vw;
     height: 11vw;
     min-width: 100px; 
     min-height: 100px;
     object-fit: cover;
+    margin-left: 10%;
 }
 
 
@@ -30,8 +32,30 @@ hr{
     cursor: pointer;
     margin-left:4%;
     margin-top: 4%;
+    margin-bottom: 4%;
 }
 
 
 
+#self-intro{
+    color: #71838F;
+    margin-bottom: 2%;
+    text-align: left;
+}
+
+#skill{
+    background-color: rgba(214, 199, 178, 0.2);
+    color:#71838F;
+    font-size: 1em;
+    text-align: center;
+}
+
+
+#skill-icon{
+    width: 5vw;
+    height: 5vw;
+    min-width: 30px;
+    min-height: 30px;
+    margin-top: 2vw;
+}
 
