@@ -59,3 +59,80 @@ hr{
     margin-top: 2vw;
 }
 
+#experience-card{
+   width: 90%;
+   margin-top: 2vw;
+
+}
+#experience-card-header{
+    background-color: white;
+    color:#71838F;
+    font-weight: bold;
+}
+
+#experience-icon{
+    height: 3vw;
+    min-height: 40px;
+}
+
+#myrepublic-icon{
+    height: 2vw;
+    min-height: 25px;
+}
+
+.card-body{
+    color: #71838F;
+}
+
+#projects{
+    background-color: rgba(214, 199, 178, 0.2);
+    margin-top: 2vw;
+}
+
+#projects-row{
+    margin-left: 1%;
+}
+
+
+#projects-icon{
+    width: 7vw;
+    height: 7vw;
+    min-width: 70px;
+    min-height: 70px;
+    
+}
+
+#projects-card{
+    border: none;
+}
+
+#projects-card-header, #projects-card-body{
+    background-color: rgba(214, 199, 178, 0.2);
+    border: none;
+    color: #D39394 ;
+}
+
+.card-text{
+    color:#71838F;
+}
+
+.btn-outline-primary{
+    border-color: #D39394!important;
+    color: #D39394!important;
+
+} 
+
+.btn-outline-primary:hover{
+    background-color: #D39394;
+    color: white!important;
+ 
+}
+
+
+
+#projects-col{
+    display: grid; 
+    justify-content: center; 
+    align-items: center;
+}
+
